@@ -1,7 +1,7 @@
 baseURL = "/"
 disableAliases = true
 enableRobotsTXT = true
-languageCode = "en-gb"
+languageCode = "en"
 title = "Sample Site"
 [mediaTypes."text/netlify"]
 delimiter = ""
