@@ -15,4 +15,5 @@ fields:
   name: date
   label: Date
 pages:
+- content/second-page.md
 - content/_index.md
