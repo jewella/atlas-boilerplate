@@ -14,3 +14,5 @@ fields:
     required: false
   label: Description
   description: Enter the contents of the meta description tag.
+pages:
+- content/_index.md
