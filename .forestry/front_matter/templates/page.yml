@@ -4,7 +4,13 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: Enter the contents of the meta description tag.
