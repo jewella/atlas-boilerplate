@@ -17,6 +17,7 @@ fields:
   label: Date
   default: now
 pages:
+- content/nested-page-two.md
 - content/second-page.md
 - content/third-page.md
 - content/_index.md
