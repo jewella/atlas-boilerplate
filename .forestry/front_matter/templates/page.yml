@@ -17,5 +17,6 @@ fields:
   label: Date
   default: now
 pages:
+- content/third-page.md
 - content/second-page.md
 - content/_index.md
