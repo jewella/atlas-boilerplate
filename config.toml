@@ -3,27 +3,20 @@ disableAliases = true
 enableRobotsTXT = true
 languageCode = "en"
 title = "Sample Site"
-
 [mediaTypes."text/netlify"]
-    delimiter = ""
-    suffixes = [""]
-
+delimiter = ""
+suffixes = [""]
 [outputFormats.HEADERS]
-    baseName = "_headers"
-    isPlainText = true
-    mediatype = "text/netlify"
-    notAlternative = true
-
+baseName = "_headers"
+isPlainText = true
+mediatype = "text/netlify"
+notAlternative = true
 [outputFormats.REDIRECTS]
-    baseName = "_redirects"
-    isPlainText = true
-    mediatype = "text/netlify"
-    notAlternative = true
-
+baseName = "_redirects"
+isPlainText = true
+mediatype = "text/netlify"
+notAlternative = true
 [outputs]
-    home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
-
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
 [params]
-    disallow_search_engines = false
-
-[[menu.main]]
+disallow_search_engines = false
