@@ -4,3 +4,5 @@
 {{ . }} {{ $p.RelPermalink -}}
 {{- end }}
 {{- end -}}
+
+/first-page/* /second-page/:splat 301
